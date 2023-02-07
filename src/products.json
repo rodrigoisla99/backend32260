@@ -1,0 +1,35 @@
+[
+    {
+      "id": 0,
+      "title": "Tabla",
+      "description": "Personalziable",
+      "price": 1450,
+      "thumbnail": "Sin Imagen",
+      "code": 205,
+      "stock": 17,
+      "status": true,
+      "category": "casa"
+    },
+    {
+      "id": 2,
+      "title": "Almohadon",
+      "description": "Arena",
+      "price": 1250,
+      "thumbnail": "Sin Imagen",
+      "code": 705,
+      "stock": 9,
+      "status": true,
+      "category": "Casa"
+    },
+    {
+      "id": 3,
+      "title": "Frasco",
+      "description": "Transparente",
+      "price": 1250,
+      "thumbnail": "Sin Imagen",
+      "code": 105,
+      "stock": 26,
+      "status": true,
+      "category": "Casa"
+    }
+  ]
